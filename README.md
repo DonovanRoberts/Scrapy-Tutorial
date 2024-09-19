@@ -24,3 +24,39 @@ Amazon, Liquor stores, and much more.
 - <b>Windows 11</b> (21H2)
 
 <h2>Program Reflection & Code:</h2>
+
+<p align="center">
+Creating Environment: <br/>
+<img src="https://i.imgur.com/R3TKydx.png" height="80%" width="80%" alt="Scrapy Tuorial Steps"/>
+<br />
+<br />
+Creating Environment & Project File:  <br/>
+<img src="https://i.imgur.com/StvwemB.png" height="80%" width="80%" alt="Scrapy Tuorial Steps"/>
+<br />
+<br />
+Creating Spider:  <br/>
+<img src="https://i.imgur.com/1cabxlv.png" height="80%" width="80%" alt="Scrapy Tuorial Steps"/>
+<br />
+<br />
+Start Using Spider:  <br/>
+<img src="https://i.imgur.com/ZvTLGJJ.png" height="80%" width="80%" alt="Scrapy Tuorial Steps"/>
+<br />
+<br />
+Accessing Website:  <br/>
+<img src="https://i.imgur.com/b4cLJYW.png" height="80%" width="80%" alt="Scrapy Tuorial Steps"/>
+<br />
+<br />
+Extracting Data:  <br/>
+<img src="https://i.imgur.com/5refS4X.png" height="80%" width="80%" alt="Scrapy Tuorial Steps"/>
+<br />
+<br />
+Extracting Data (contd.):  <br/>
+<img src="https://i.imgur.com/9ifeSzz.png" height="80%" width="80%" alt="Scrapy Tuorial Steps"/>
+<br />
+<br />
+Extracting Data (contd.):  <br/>
+<img src="https://i.imgur.com/sdEl45i.png" height="80%" width="80%" alt="Scrapy Tuorial Steps"/>
+<br />
+<br />
+Saving File & Sources (contd.):  <br/>
+<img src="https://i.imgur.com/wy1DH0G.png" height="80%" width="80%" alt="Scrapy Tuorial Steps"/>
